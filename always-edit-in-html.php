@@ -60,7 +60,7 @@ function always_edit_in_html_handler(){
 	if ( $editInHTML ){
 		// Hide "Visual" tab
 		echo '<style type="text/css">';
-		echo 'a#content-tmce.wp-switch-editor.switch-tmce{display:none;}';
+		echo '#content-tmce.wp-switch-editor.switch-tmce{display:none;}';
 		echo '</style>';
 		
 		// Set the editor to HTML ("Text")
