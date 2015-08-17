@@ -3,7 +3,7 @@ Contributors: gravitationalfx, limecanvas
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YQGF2CP3PQGGA
 Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit page in HTML,edit post in HTML
 Requires at least: 2.8
-Tested up to: 4.1
+Tested up to: 4.3
 Stable tag: trunk
 
 Always opens up a specific page or post in HTML mode to preserve HTML code.
@@ -58,6 +58,9 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 1.9 =
+* Checked compatibility with 4.3
+
 = 1.8 =
 * Checked compatibility with 4.2.2
 * Changed some mentions of "HTML" to "Text" for the reference to the editor tabs.
