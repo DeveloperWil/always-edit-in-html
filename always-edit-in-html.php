@@ -4,11 +4,11 @@
 Plugin Name: Always Edit in HTML
 Plugin URI: http://www.limecanvas.com/wordpress-plugins/always-edit-in-html-wordpress-plugin/
 Description: Opens page and post editor in HTML mode to preserve formatting.
-Version: 1.9
-Author: Lime Canvas
-Author URI: http://www.limecanvas.com/author/wil/
+Version: 2.0
+Author: DeveloperWil
+Author URI: https://profiles.wordpress.org/developerwil
 
-    Copyright © 2013 Lime Canvas Ltd.  www.limecanvas.com
+    Copyright © 2016 Zero Point Development.  zeropointdevelopment.com
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
