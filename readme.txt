@@ -18,10 +18,10 @@ Always Edit In HTML is a WordPress plugin that removes the "Visual" tab in the p
 
 The WordPress page/post editor has two tabs at the top right - "Visual" and "Text".
 
-   1. The HTML tab allows you to enter HTML code onto the page or post and when saving or publishing the post it preserves your code just the way you entered it.
+   1. The Text tab allows you to enter HTML code onto the page or post and when saving or publishing the post it preserves your code just the way you entered it.
    2. The Visual tab has all the fancy writing style tools but when you save or publish your page or post, WordPress parses and formats the content which may results in your HTML code not working or even being removed.
 
-WordPress does not remember the tab option for each page or post.  It will open up a page or post using whichever Visual or HTML tab you last used.
+WordPress does not remember the tab option for each page or post.  It will open up a page or post using whichever Visual or Text tab you last used.
 
 This means that if you were editing a post using the Visual tab, saved it and then edited the page or post you had entered the HTML code into, that page would open in Visual mode and you could loose your HTML code.
 
@@ -58,6 +58,12 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 2.1 =
+* Updated screen shots
+* Brand image replacement with Zero Point Development mark
+* Changed all references of "HTML tab" to "Text tab"
+* Checked compatibility with 4.5.2
+
 = 2.0 =
 * Checked compatibility with 4.4
 * Changed contributor to DeveloperWil

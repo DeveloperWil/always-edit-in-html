@@ -2,9 +2,9 @@
 
 /*
 Plugin Name: Always Edit in HTML
-Plugin URI: http://www.limecanvas.com/wordpress-plugins/always-edit-in-html-wordpress-plugin/
-Description: Opens page and post editor in HTML mode to preserve formatting.
-Version: 2.0
+Plugin URI: https:/zeropointdevelopment.com/wordpress-plugins/always-edit-in-html-wordpress-plugin/
+Description: Opens page and post editor in HTML mode to preserve formatting.  Hides Visual editor tab.
+Version: 2.1
 Author: DeveloperWil
 Author URI: https://profiles.wordpress.org/developerwil
 
@@ -51,7 +51,7 @@ function always_edit_in_html_handler(){
     if( $post == null ) return;
 
     echo '<style type="text/css">';
-    echo '#always-edit-in-html .inside{background: url('.plugins_url( '/images/lime-canvas-mark.png', __FILE__ ).') no-repeat top right;padding-right:55px;}';
+    echo '#always-edit-in-html .inside{background: url('.plugins_url( '/images/zeropointdevelopment-mark.png', __FILE__ ).') no-repeat 98% 0%;padding-right:42px;}';
     echo '</style>';
 
 
@@ -110,7 +110,7 @@ function always_edit_in_html_custom_box( $post ){
     $editInHTML = always_edit_in_html_get_html_edit_status( $post->ID );
 
     // Create the form  with the options field and brief explaination of what it does.
-    echo '<p>'.__( 'Removes the Visual and HTML editor tabs and opens this page/post in HTML mode', 'always-edit-in-html' ).'</p>';
+    echo '<p>'.__( 'Removes the Visual and Text editor tabs and opens this page/post in HTML mode', 'always-edit-in-html' ).'</p>';
     echo '<label for="always_edit_in_html">'.__( 'Always edit in HTML?', 'always-edit-in-html' ).'</label> ';
     echo '<input type="checkbox" id="always_edit_in_html" name="always_edit_in_html" value="on" ';
 
