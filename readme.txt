@@ -1,5 +1,5 @@
 === Always Edit In HTML ===
-Contributors: developerwil
+Contributors: DeveloperWil
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=YQGF2CP3PQGGA
 Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit page in HTML,edit post in HTML
 Requires at least: 2.8
@@ -59,6 +59,10 @@ Nope.
 
 == Changelog ==
 = 2.1 =
+* Removed limecanvas contributor
+
+= 2.1 =
+* Added correct contributor DeveloperWil
 * Updated screen shots
 * Brand image replacement with Zero Point Development mark
 * Changed all references of "HTML tab" to "Text tab"
