@@ -4,7 +4,7 @@
 Plugin Name: Always Edit in HTML
 Plugin URI: https:/zeropointdevelopment.com/wordpress-plugins/always-edit-in-html-wordpress-plugin/
 Description: Opens page and post editor in HTML mode to preserve formatting.  Hides Visual editor tab.
-Version: 2.3
+Version: 2.4.0
 Author: DeveloperWil
 Author URI: https://profiles.wordpress.org/developerwil
 

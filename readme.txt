@@ -3,8 +3,9 @@ Contributors: DeveloperWil
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEUW6MXMN7WWE
 Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit page in HTML,edit post in HTML
 Requires at least: 2.8
-Tested up to: 4.7
-Stable tag: trunk
+Tested up to: 4.8.1
+Requires PHP: 5.6
+Stable tag: 2.4.0
 
 Always opens up a specific page or post in HTML mode to preserve HTML code.
 
@@ -58,6 +59,14 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 2.4.0 =
+* Moved to minor release versioning (added extra .0)
+* Tested on WordPress 4.8.1
+* Added Requires PHP tag
+
+= 2.3 =
+* Corrected spelling mistake
+
 = 2.2 =
 * Changed PayPal donate link from Gravitational FX to Zero Point Development
 * Tested on WordPress 4.7
