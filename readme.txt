@@ -3,9 +3,9 @@ Contributors: DeveloperWil
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEUW6MXMN7WWE
 Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit page in HTML,edit post in HTML
 Requires at least: 2.8
-Tested up to: 4.9
+Tested up to: 5.0.3
 Requires PHP: 5.6
-Stable tag: 2.4.0
+Stable tag: 2.4.1
 
 Always opens up a specific page or post in HTML mode to preserve HTML code.
 
@@ -29,6 +29,8 @@ This means that if you were editing a post using the Visual tab, saved it and th
 If only there was a plugin that gave you the option to always open up a page or post in HTML
 
 Ta da!  Here's one.
+
+Note: For WordPress 5.x users, this plugin will still work when the Classic Editor plugin is installed and enabled.  It does not work with the Gutenberg block editor.
 
 = Plugin Page =
 [Always Edit In HTML](http://www.limecanvas.com/wordpress-plugins/always-edit-in-html-wordpress-plugin/ "Always Edit In HTML WordPress Plugin")
@@ -59,6 +61,10 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 2.4.1 =
+* Tested on WordPress 5.0.3 with Classic Editor plugin activated
+* Added note to readme - this plugin works on 5.0 in conjunction with the Classic Editor plugin
+
 = 2.4.0 =
 * Moved to minor release versioning (added extra .0)
 * Tested on WordPress 4.8.1
