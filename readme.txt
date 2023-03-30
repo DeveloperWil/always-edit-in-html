@@ -5,7 +5,7 @@ Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit 
 Requires at least: 5.2
 Tested up to: 6.2
 Requires PHP: 7.4
-Stable tag: 2.4.4
+Stable tag: 2.4.5
 
 Always opens up a specific page or post in HTML mode to preserve HTML code (classic editor only).
 
@@ -61,6 +61,9 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 2.4.5 =
+* Testing on WordPress 6.2 with Classic Editor plugin activated
+
 = 2.4.4 =
 * Fixed PHP fatal error in PHP 8.x
 
