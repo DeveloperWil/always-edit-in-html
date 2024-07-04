@@ -1,11 +1,12 @@
 === Always Edit In HTML ===
 Contributors: DeveloperWil
 Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=BEUW6MXMN7WWE
-Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,HTML page,HTML post,edit page in HTML,edit post in HTML
+Tags: HTML edit,always edit in HTML,HTML Tab,HTML Mode,edit post in HTML
 Requires at least: 5.2
+Requires Plugins: classic-editor
 Tested up to: 6.6
 Requires PHP: 7.4
-Stable tag: 2.4.5
+Stable tag: 2.4.6
 
 Always opens up a specific page or post in HTML mode to preserve HTML code (classic editor only).
 
@@ -61,6 +62,10 @@ Nope.
 2. Option turned on and page/post is in HTML mode.  Visual and Text tabs removed.
 
 == Changelog ==
+= 2.4.6 =
+* Tested on WordPress 6.6 with Classic Editor plugin activated
+* Added tag Requires Plugins: classic-editor
+
 = 2.4.5 =
 * Testing on WordPress 6.2 with Classic Editor plugin activated
 
