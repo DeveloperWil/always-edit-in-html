@@ -7,6 +7,8 @@ Requires Plugins: classic-editor
 Tested up to: 6.6
 Requires PHP: 7.4
 Stable tag: 2.4.6
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 Always opens up a specific page or post in HTML mode to preserve HTML code (classic editor only).
 
